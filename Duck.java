@@ -1,4 +1,6 @@
-package Bird;
+// KAUSTUBH RAYKAR
+// PRN - 21070126048
+// AIML A3package Bird;
 public abstract class Duck {
     FlyBehaviour flyBehaviour;  //object of interface
     QuackBehaviour quackBehaviour;      //object of interface
